@@ -38,7 +38,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 Describe any challenges encountered while building the app.
 
-Getting the "Flixster" logo to stick on the top was surprisingly difficult. 
+Getting the "Flixster" logo to stick on the top was surprisingly difficult. My solution was to use a Frame and to mess around with the scaletype tools. Along the way, I had minor issues with getting the API key to work correctly. 
 
 
 
